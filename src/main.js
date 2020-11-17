@@ -5,7 +5,7 @@ import 'buefy/dist/buefy.css'
 // import VueLayers modules
 import VueLayers from 'vuelayers'
 // import VueLayers styles
-import 'vuelayers/lib/style.css'
+import 'vuelayers/dist/vuelayers.css'
 import App from './App.vue'
 
 Vue.config.productionTip = false
